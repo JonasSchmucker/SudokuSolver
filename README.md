@@ -1,4 +1,4 @@
-# Mosaik Solver
+# Sudoku Solver
 
 a solver for the popular puzzle game Sudoku.
 This solver utilizes the z3 SAT-solver
